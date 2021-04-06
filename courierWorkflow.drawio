@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T20:17:17.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="xO3wi-RNQ-To0lPnwW1y" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T20:17:36.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="0GjQF8QHESbKcBhJjQid" version="14.5.4" type="github">
   <diagram id="QC_UgXkNtHoBuMkYK5Ir" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="DsKkSDaH-UXjx7eiKe0Z-18" value="Scan the QR code shown in locker UI&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361.4" y="730" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DsKkSDaH-UXjx7eiKe0Z-19" value="&lt;u&gt;Typical workflow for restaurant/staff user&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="DsKkSDaH-UXjx7eiKe0Z-19" value="&lt;u style=&quot;font-size: 14px;&quot;&gt;Typical workflow for restaurant/staff user&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="287" y="60" width="254" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DsKkSDaH-UXjx7eiKe0Z-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
