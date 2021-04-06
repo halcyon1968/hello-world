@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T21:54:42.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="4M-dGQB7v4L5ZNxEcA0I" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T21:58:19.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="4Lk1zPfuCipsiZgCbrL-" version="14.5.8" type="github">
   <diagram id="QC_UgXkNtHoBuMkYK5Ir" name="Page-1">
-    <mxGraphModel dx="1730" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
         <mxCell id="DsKkSDaH-UXjx7eiKe0Z-18" value="Scan the QR code shown in locker UI&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="96.88" y="730" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DsKkSDaH-UXjx7eiKe0Z-19" value="&lt;u style=&quot;font-size: 14px;&quot;&gt;Typical workflow for restaurant/staff user&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="458" y="40" width="254" height="20" as="geometry" />
+        <mxCell id="DsKkSDaH-UXjx7eiKe0Z-19" value="&lt;u style=&quot;font-size: 20px;&quot;&gt;Typical workflow for restaurant/staff user&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="394" y="50" width="382" height="20" as="geometry" />
         </mxCell>
         <mxCell id="DsKkSDaH-UXjx7eiKe0Z-20" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
